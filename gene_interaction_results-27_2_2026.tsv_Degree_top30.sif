@@ -1,0 +1,50 @@
+RRM2
+NEK2	interacts with	ILORASERTIB
+NEK2	interacts with	DOVITINIB
+NEK2	interacts with	PALBOCICLIB
+NEK2	interacts with	CENISERTIB
+NEK2	interacts with	SP-600125
+BBOX1
+FN1
+MMP7	interacts with	DOXYCYCLINE ANHYDROUS
+RET	interacts with	GENISTEIN
+RET	interacts with	LAPATINIB
+RET	interacts with	PALBOCICLIB
+RET	interacts with	TYROSINE KINASE INHIBITOR
+RET	interacts with	CENISERTIB
+RET	interacts with	SP-600125
+RET	interacts with	DOVITINIB
+RET	interacts with	ILORASERTIB
+RET	interacts with	LINIFANIB
+MPPED2
+TOP2A	interacts with	GENISTEIN
+PGR	interacts with	LAPATINIB
+PGR	interacts with	TAMOXIFEN
+PGR	interacts with	LEVONORGESTREL
+PGR	interacts with	PALBOCICLIB
+CYP2B6	interacts with	TYROSINE KINASE INHIBITOR
+CYP2B6	interacts with	GENISTEIN
+CYP2B6	interacts with	TAMOXIFEN
+CYP2B6	interacts with	LEVONORGESTREL
+NAT1
+MMP1	interacts with	DOXYCYCLINE ANHYDROUS
+MMP1	interacts with	TYROSINE KINASE INHIBITOR
+MELK	interacts with	CENISERTIB
+MELK	interacts with	ILORASERTIB
+MELK	interacts with	DOVITINIB
+MELK	interacts with	LINIFANIB
+MELK	interacts with	SP-600125
+CPB1
+ACTA2
+GABRP
+NTRK2	interacts with	DOVITINIB
+NTRK2	interacts with	LINIFANIB
+NTRK2	interacts with	ILORASERTIB
+NTRK2	interacts with	CENISERTIB
+NTRK2	interacts with	SP-600125
+ESR1	interacts with	PALBOCICLIB
+ESR1	interacts with	TAMOXIFEN
+ESR1	interacts with	DOXYCYCLINE ANHYDROUS
+ESR1	interacts with	GENISTEIN
+ESR1	interacts with	LEVONORGESTREL
+ESR1	interacts with	LAPATINIB
